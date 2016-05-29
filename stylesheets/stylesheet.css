@@ -58,7 +58,7 @@ header h1 {
 }
 
 header h1:before {
-  <img style="float: left;" src="https://raw.githubusercontent.com/MayberFox/SNHS-Home-Page/gh-pages/SNHS_logo.png" alt="html cleaner" width="45" />
+  <img style="float: left;" src="https://raw.githubusercontent.com/MayberFox/SNHS-Home-Page/gh-pages/SNHS_logo.png" alt="html cleaner" width="45" />;
 }
 
 header h2 {
