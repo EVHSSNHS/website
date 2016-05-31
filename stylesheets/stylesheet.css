@@ -86,8 +86,9 @@ header h2 {
   -webkit-font-smoothing: antialiased;
 }
 section img {
-  width: 100%
-  margin: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto ;
 }
 
 h1, h2, h3, h4, h5, h6 {
