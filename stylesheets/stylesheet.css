@@ -251,7 +251,7 @@ a {
 }
 /*DROPDOWN MENU---------*/
 ul {
-    /*list-style-type: none;*/
+    list-style-type: none;
     margin: 0;
     padding: 0;
     position: fixed;
@@ -295,7 +295,7 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: #44a9f4}
 
 .dropdown:hover .dropdown-content {
     display: block;
