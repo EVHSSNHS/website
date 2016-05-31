@@ -20,8 +20,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d00a0', end
 
 .container {
   width: 90%;
-  max-width: 600px;
-  margin: 0 auto;
+  /*max-width: 600px;*/
+  margin:  auto;
 }
 
 section {
