@@ -351,19 +351,21 @@ body {font-family: Verdana,sans-serif;margin:0}
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
+  -webkit-animation-duration: 2.0s;
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 2.0s;
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .5} 
   to {opacity: 1}
+  position: static;
 }
 
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
+  position: static;
 }
 
 /* On smaller screens, decrease text size */
