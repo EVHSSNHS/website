@@ -262,7 +262,6 @@ ul {
 
 li {
     float: left;
-    z-index:1;
 }
 
 li a, .dropbtn {
@@ -312,6 +311,7 @@ body {font-family: Verdana,sans-serif;margin:0}
   max-width: 1000px;
   position: static;
   margin: auto;
+  opacity: 0;
 }
 
 /* Caption text */
@@ -347,6 +347,7 @@ body {font-family: Verdana,sans-serif;margin:0}
 
 .active {
   background-color: #717171;
+  opacity: 0;
 }
 
 /* Fading animation */
