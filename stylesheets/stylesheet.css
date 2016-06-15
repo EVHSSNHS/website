@@ -537,12 +537,12 @@ Pseudo ::selection element
 /*---table----*/
 
 table#t01 tr:nth-child(even) {
-    background-color: #eee;
+    background-color: #acb2fd;
 }
 table#t01 tr:nth-child(odd) {
    background-color:#fff;
 }
 table#t01 th {
     background-color: #2b39ec;
-    color: #8b94fb;
+    color: #fff;
 }
