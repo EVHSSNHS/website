@@ -196,7 +196,7 @@ th {
 }
 
 td {
-  padding: 5px 10px;
+  padding: 15px;
 }
 
 hr {
@@ -542,7 +542,7 @@ table#t01 tr:nth-child(even) {
 table#t01 tr:nth-child(odd) {
    background-color:#fff;
 }
-table#t01 th,td {
+table#t01 th {
     background-color: #2b39ec;
     color: #fff;
     padding:15px;
