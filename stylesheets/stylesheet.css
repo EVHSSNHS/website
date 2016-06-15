@@ -32,6 +32,8 @@ section {
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
+
+
 h7{
   margin: 0 0 20px;
 }
@@ -106,7 +108,13 @@ h1, h2, h3, h4, h5, h6 {
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
 }
-
+h6{
+  display:block;
+      -webkit-margin-before: 2.33em;
+    -webkit-margin-after: 2.33em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
 h7{
    font-weight: normal;
   font-family: "Times New Roman", Georgia, Serif;
