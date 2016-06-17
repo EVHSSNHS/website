@@ -54,7 +54,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  /*border-bottom: 1px dashed #000000;*/
+  border-bottom: 1px dashed #000000;
   padding: 20px 0;
   margin: 0 0 50px 0;
 }
@@ -73,6 +73,13 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
+footer {
+background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  /*border-bottom: 1px dashed #000000;*/
+  padding: 20px 0;
+  margin: 0 0 50px 0;
+}
 
 header h2 {
   font-size: 18px;
