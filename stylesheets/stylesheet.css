@@ -20,6 +20,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d00a0', end
 /* General & 'Reset' Stuff */
 
 .container {
+  width: 90%;
   margin: auto;
 }
 
@@ -466,7 +467,7 @@ Inherited from div.mdl-card.card-full-width.card-height-resize.card-row
     font-weight: 400;
     min-height: 200px;
     overflow: hidden;
-    width: 330px;
+    /*width: 330px;*/
     z-index: 1;
     position: relative;
     background: #fff;
