@@ -20,8 +20,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d00a0', end
 /* General & 'Reset' Stuff */
 
 .container {
-  max-width: 1200px;
-  min-width: 600px;
+  max-width: 90%;
   margin: auto;
 }
 
@@ -98,7 +97,7 @@ header h2 {
 */
 
 #main_content {
-  width: 100%;
+  /*width: 100%;*/
   -webkit-font-smoothing: antialiased;
 }
 section img {
