@@ -20,7 +20,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d00a0', end
 /* General & 'Reset' Stuff */
 
 .container {
-  /*width: 90%;*/
+  width: 90%;
   margin: auto;
 }
 
