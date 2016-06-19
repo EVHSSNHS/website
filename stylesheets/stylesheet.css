@@ -295,11 +295,11 @@ ul {
     z-index:1;
 }
 
-li {
+list {
     float: left;
 }
 
-li a, .dropbtn {
+list a, .dropbtn {
     display: inline-block;
     color: white;
     text-align: center;
@@ -307,11 +307,11 @@ li a, .dropbtn {
     text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+list a:hover, .dropdown:hover .dropbtn {
     background-color: #598bf6;
 }
 
-li.dropdown {
+list.dropdown {
     display: inline-block;
 }
 
