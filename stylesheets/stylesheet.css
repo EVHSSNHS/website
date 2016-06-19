@@ -633,7 +633,7 @@ al {
 .social ul li {
   display: block;
   margin: 5px;
-  background: rgba(18, 35, 215, 1);
+  background: rgba(76, 76, 76, 1);
   width: 310px;
   text-align: right;
   padding: 10px;
@@ -652,7 +652,7 @@ al {
   -ms-transform: translate(110px, 0);
   -o-transform: translate(110px, 0);
   transform: translate(110px, 0);
-  background: rgba(18, 35, 215, 1);
+  background: rgba(124, 124, 124, 1);
 }
 .social ul li:hover a {
   color: #000;
