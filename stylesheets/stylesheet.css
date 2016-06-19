@@ -657,14 +657,14 @@ al {
   -ms-transform: translate(110px, 0);
   -o-transform: translate(110px, 0);
   transform: translate(110px, 0);
-  background: rgba(18, 35, 215, 0.3);
+  background: rgba(18, 35, 215, 0);
 }
 .social ul li:hover a {
   color: #000;
 }
 .social ul li:hover i {
   color: #fff;
-  background: rgba(0, 0, 0, 0.36);
+  background: rgba(0, 0, 0, 0);
   -webkit-transform: rotate(360deg);
   -moz-transform: rotate(360deg);
   -ms-transform: rotate(360deg);
