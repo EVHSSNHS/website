@@ -647,7 +647,7 @@ al {
   transform: translate(-270px, 0);
 }
 .social ul li {
-  display: none;
+  display: flex;
   margin: 5px;
   background: rgba(18, 35, 215, 1);
   width: 300px;
