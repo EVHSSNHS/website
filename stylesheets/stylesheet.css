@@ -618,14 +618,9 @@ al {
   color: #fff;
   text-decoration: none;
 }
-.me {
-  width: 400px;
-  margin: 90px auto;
-}
 .social {
   position: fixed;
   top: 350px;
-  
 }
 .social ul {
   padding: 0px;
@@ -639,7 +634,7 @@ al {
   display: block;
   margin: 5px;
   background: rgba(18, 35, 215, 1);
-  width: 300px;
+  width: 310px;
   text-align: right;
   padding: 10px;
   -webkit-border-radius: 0 30px 30px 0;
