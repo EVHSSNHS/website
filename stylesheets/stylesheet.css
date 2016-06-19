@@ -698,7 +698,7 @@ al {
   width: 20px;
   height: 20px;
   font-size: 20px;
-  background: #ffffff;
+  background: /*#ffffff*/#dd4b4b;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -ms-transform: rotate(0deg);
