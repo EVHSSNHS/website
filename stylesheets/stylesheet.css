@@ -651,7 +651,7 @@ al {
   -moz-transform: translate(110px, 0);
   -ms-transform: translate(110px, 0);
   -o-transform: translate(110px, 0);
-  transform: translate(110px, 0);
+  transform: translate(80px, 0);/*hehehehehehehehe*/
   background: rgba(124, 124, 124, 1);
 }
 .social ul li:hover a {
