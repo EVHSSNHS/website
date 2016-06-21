@@ -695,9 +695,9 @@ input[type=text] {
     width: 130px;
     box-sizing: border-box;
     border: 2px solid #ccc;
-    border-radius: 2200px;
-    font-size: 16px;
-    background-color: white;
+    border-radius: 10px;
+    font-size: 14px;
+    background-color: #acacac;
     background-image: url('searchicon.png');
     background-position: 10px 10px;
     background-repeat: no-repeat;
