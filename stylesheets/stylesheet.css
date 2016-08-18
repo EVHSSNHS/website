@@ -635,7 +635,7 @@ al {
   display: block;
   margin: 5px;
   background: rgba(76, 76, 76, 1);
-  width: 0px;
+  width: 200px;
   text-align: left;
   padding: 10px;
   -webkit-border-radius:  30px 30px ;
