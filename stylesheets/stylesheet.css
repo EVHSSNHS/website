@@ -620,7 +620,7 @@ al {
 }
 .social {
   position: fixed;
-  bottom: 0px;
+  bottom: 10px;
 }
 .social ul {
   padding: 0px;
