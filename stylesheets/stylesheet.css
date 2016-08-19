@@ -621,7 +621,6 @@ al {
 .social {
   position: fixed;
   bottom: 0px;
-  right=-200px;
 }
 .social ul {
   padding: 0px;
@@ -636,11 +635,11 @@ al {
   margin: 5px;
   background: rgba(76, 76, 76, 1);
   width: 200px;
-  text-align: left;
+  text-align: right;
   padding: 10px;
-  -webkit-border-radius:  30px 30px ;
-  -moz-border-radius:  30px 30px ;
-  border-radius: 30px 30px;
+  -webkit-border-radius: 0 30px 30px 0;
+  -moz-border-radius: 0 30px 30px 0;
+  border-radius: 0 30px 30px 0;
   -webkit-transition: all 1s;
   -moz-transition: all 1s;
   -ms-transition: all 1s;
@@ -648,11 +647,11 @@ al {
   transition: all 1s;
 }
 .social ul li:hover {
-  -webkit-transform: translate(-110px, 0);
-  -moz-transform: translate(-110px, 0);
-  -ms-transform: translate(-110px, 0);
-  -o-transform: translate(-110px, 0);
-  transform: translate(-80px, 0);
+  -webkit-transform: translate(110px, 0);
+  -moz-transform: translate(110px, 0);
+  -ms-transform: translate(110px, 0);
+  -o-transform: translate(110px, 0);
+  transform: translate(80px, 0);
   background: rgba(124, 124, 124, 1);
 }
 .social ul li:hover a {
@@ -661,11 +660,11 @@ al {
 .social ul li:hover i {
   color: #fff;
   background: rgba(0, 0, 0, 1);
-  -webkit-transform: rotate(-360deg);
-  -moz-transform: rotate(-360deg);
-  -ms-transform: rotate(-360deg);
-  -o-transform: rotate(-360deg);
-  transform: rotate(-360deg);
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -ms-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+  transform: rotate(360deg);
   -webkit-transition: all 1s;
   -moz-transition: all 1s;
   -ms-transition: all 1s;
@@ -673,7 +672,7 @@ al {
   transition: all 1s;
 }
 .social ul li i {
-  margin-right: 10px;
+  margin-left: 10px;
   color: #000;
   background: #fff;
   padding: 10px;
