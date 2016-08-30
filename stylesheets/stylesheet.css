@@ -35,9 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-h7 {
-  margin: 0 0 20px;
-}
+
 .text-center {
     text-align: center;
 }
@@ -123,15 +121,7 @@ h6{
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
 }
-p h7 {
-  font-weight: normal;
-  font-family: "Times New Roman", Georgia, Serif;
-  color: #0b0d92;
-  letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-}
+
 
 #main_content h1 {
   font-size: 30px;
@@ -161,9 +151,7 @@ p h7 {
   color: #999;
   margin: 0 0 5px 0;
 }
-#main_content h7 {
-  font-size: 5px;
-}
+
 dt {
   font-style: italic;
   font-weight: bold;
