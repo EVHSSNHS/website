@@ -262,6 +262,8 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+
+
 /* Clearfix */
 
 .cf:before, .cf:after {
@@ -683,4 +685,13 @@ al {
   -ms-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
+}
+
+a.social{
+  color: #000951;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+a.social hover{
+    color: #000951;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
