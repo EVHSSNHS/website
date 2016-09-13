@@ -651,6 +651,13 @@ al {
   transform: translate(100px, 0);
   background: rgba(124, 124, 124, 1);
 }
+.social ul li: a {
+  /*color: #000;*/
+  
+  color: #000951;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
 .social ul li:hover a {
   /*color: #000;*/
   
