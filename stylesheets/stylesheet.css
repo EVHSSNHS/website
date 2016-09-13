@@ -652,7 +652,10 @@ al {
   background: rgba(124, 124, 124, 1);
 }
 .social ul li:hover a {
-  color: #000;
+  /*color: #000;*/
+  
+  color: #000951;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 .social ul li:hover i {
   color: #fff;
@@ -685,13 +688,4 @@ al {
   -ms-transform: rotate(0deg);
   -o-transform: rotate(0deg);
   transform: rotate(0deg);
-}
-
-a.social{
-  color: #000951;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
-}
-a.social hover{
-    color: #000951;
-  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
